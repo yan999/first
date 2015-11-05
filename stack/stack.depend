@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1446435608 source:e:\praktikum asd\tp mod7\stack\prosedur.cpp
+	<iostream>
+	<stdlib.h>
+	"list.h"
+
+1446370044 e:\praktikum asd\tp mod7\stack\list.h
+
+1446371079 source:e:\praktikum asd\tp mod7\stack\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"list.h"
+
